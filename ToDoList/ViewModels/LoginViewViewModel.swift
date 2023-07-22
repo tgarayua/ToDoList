@@ -1,5 +1,5 @@
 //
-//  LogInViewViewModel.swift
+//  LoginViewViewModel.swift
 //  ToDoList
 //
 //  Created by Thomas Garayua on 7/21/23.
