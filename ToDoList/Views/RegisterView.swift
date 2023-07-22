@@ -11,6 +11,7 @@ struct RegisterView: View {
     @State var name = ""
     @State var email = ""
     @State var password = ""
+    
     var body: some View {
         VStack {
             // Header
