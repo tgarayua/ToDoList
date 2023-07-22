@@ -31,6 +31,7 @@
 		131B37142A6B651F0011EADB /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131B37132A6B651F0011EADB /* ToDoListItemViewViewModel.swift */; };
 		131B37162A6B6B530011EADB /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131B37152A6B6B530011EADB /* LoginView.swift */; };
 		131B37182A6B6EF00011EADB /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131B37172A6B6EF00011EADB /* HeaderView.swift */; };
+		131B371A2A6B77870011EADB /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131B37192A6B77870011EADB /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		131B37132A6B651F0011EADB /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		131B37152A6B6B530011EADB /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		131B37172A6B6EF00011EADB /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		131B37192A6B77870011EADB /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				131B36FF2A6B63C50011EADB /* RegisterView.swift */,
 				131B37012A6B63FA0011EADB /* ToDoListItemView.swift */,
 				131B37172A6B6EF00011EADB /* HeaderView.swift */,
+				131B37192A6B77870011EADB /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				131B36FA2A6B638B0011EADB /* ToDoListView.swift in Sources */,
 				131B37002A6B63C50011EADB /* RegisterView.swift in Sources */,
 				131B370A2A6B64A00011EADB /* ProfileViewViewModel.swift in Sources */,
+				131B371A2A6B77870011EADB /* TLButton.swift in Sources */,
 				131B36F82A6B636C0011EADB /* ProfileView.swift in Sources */,
 				131B37042A6B64380011EADB /* User.swift in Sources */,
 				131B37022A6B63FA0011EADB /* ToDoListItemView.swift in Sources */,
