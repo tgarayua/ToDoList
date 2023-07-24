@@ -9,9 +9,15 @@ import SwiftUI
 
 // MARK: Changed ContentView to MainView
 struct MainView: View {
+    @StateObject var viewModel = MainViewViewModel()
+    
     var body: some View {
         VStack {
-            LoginView()
+            if viewModel.isSignedIn, !viewModel.currentUserId.isEmpty {
+                ToDoListView()
+            } else {
+                LoginView()
+            }
         }
     }
 }
