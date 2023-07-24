@@ -16,9 +16,6 @@ struct LoginView: View {
                 // Header
                 HeaderView(title: "To Do List", subtitle: "Get Things Done", angle: 15, background: .pink)
                 // Login Form
-                
-                
-                
                 Form {
                     if !viewModel.errorMessage.isEmpty {
                         Text(viewModel.errorMessage)
