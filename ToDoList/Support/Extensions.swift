@@ -8,7 +8,9 @@
 import Foundation
 
 extension Encodable {
+    
     func asDictionary() -> [String: Any] {
+        
         guard let data = try? JSONEncoder().encode(self) else {
             return [:]
         }
@@ -19,5 +21,7 @@ extension Encodable {
         } catch {
             return [:]
         }
+        
     }
+    
 }
