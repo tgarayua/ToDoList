@@ -1,6 +1,6 @@
 # ToDoList
 
-![](https://im.ezgif.com/tmp/ezgif-1-b14cb213bc.gif)
+![GIF Preview](https://im.ezgif.com/tmp/ezgif-1-b14cb213bc.gif)
 
 ## About
 
